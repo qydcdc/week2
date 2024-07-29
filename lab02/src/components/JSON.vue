@@ -93,12 +93,7 @@
       
       <h3>Working with Arrays in Objects</h3>
       <!-- Activity 12: Get the top sellers from the bookstores object. -->
-      <p>Top Sellers:</p>
-      <ul>
-        <li v-for="seller in bookstores.topSellers" :key="seller">
-          {{ seller }}
-        </li>
-      </ul>
+      
       
       <p>We operate in:</p>
       <p>Our #1 seller:</p>
