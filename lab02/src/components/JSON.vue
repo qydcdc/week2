@@ -60,7 +60,6 @@
         Company:
         <!-- Activity 9a: Get the company name from the bookstores object. -->
         {{ bookstores.company }}
-        
       </p>
 
       <p>
